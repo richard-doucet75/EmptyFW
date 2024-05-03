@@ -1,8 +1,4 @@
-Certainly! Given the clarification that "EmptyFM" stands for "MT Framework" which in turn stands for "Multi-Tenant Framework," here's a revised version of your `README.md` to reflect this information more accurately.
 
-### Revised README.md Content
-
-```markdown
 # EmptyFM
 
 ## Description
@@ -80,6 +76,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
      git add README.md
      git commit -m "Updated README.md to reflect project's full name and purpose"
      git push origin main
-     ```
-
-This update ensures that the README clearly communicates the project's purpose as a multi-tenant framework, aligning with the naming clarification and enhancing the project's presentation on GitHub.
